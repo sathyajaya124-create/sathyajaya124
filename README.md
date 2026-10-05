@@ -21,18 +21,31 @@ Mata Kuliah| Praktikum Sistem Terdistribusi dan Terdesentralisasi
 prak-dis-dec/
 │
 ├── 01/    # Pertemuan 01
+
 ├── 02/    # Pertemuan 02
+
 ├── 03/    # Pertemuan 03
+
 ├── 04/    # Pertemuan 04
+
 ├── 05/    # Pertemuan 05
+
 ├── 06/    # Pertemuan 06
+
 ├── 07/    # Pertemuan 07
+
 ├── 08/    # Pertemuan 08
+
 ├── 09/    # Pertemuan 09
+
 ├── 10/    # Pertemuan 10
+
 ├── 11/    # Pertemuan 11
+
 ├── 12/    # Pertemuan 12
+
 ├── 13/    # Pertemuan 13
+
 └── 14/    # Pertemuan 14
 
 Setiap folder berisi laporan dan file pendukung sesuai dengan materi praktikum pada pertemuan tersebut.
@@ -43,18 +56,31 @@ Setiap folder berisi laporan dan file pendukung sesuai dengan materi praktikum p
 
 Pertemuan| Materi / Kegiatan| Status
 01| Praktikum Minggu 01| ⬜
+
 02| Praktikum Minggu 02| ⬜
+
 03| Praktikum Minggu 03| ⬜
+
 04| Praktikum Minggu 04| ⬜
+
 05| Praktikum Minggu 05| ⬜
+
 06| Praktikum Minggu 06| ⬜
+
 07| Praktikum Minggu 07| ⬜
+
 08| Praktikum Minggu 08| ⬜
+
 09| Praktikum Minggu 09| ⬜
+
 10| Praktikum Minggu 10| ⬜
+
 11| Praktikum Minggu 11| ⬜
+
 12| Praktikum Minggu 12| ⬜
+
 13| Praktikum Minggu 13| ⬜
+
 14| Praktikum Minggu 14| ⬜
 
 «💡 Status akan diperbarui sesuai dengan progres pengerjaan praktikum.»
