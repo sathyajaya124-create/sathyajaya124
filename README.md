@@ -115,18 +115,31 @@ Repository ini dibuat sebagai:
 
 Pertemuan| Link
 01| "Lihat Tugas" (./01/)
+
 02| "Lihat Tugas" (./02/)
+
 03| "Lihat Tugas" (./03/)
+
 04| "Lihat Tugas" (./04/)
+
 05| "Lihat Tugas" (./05/)
+
 06| "Lihat Tugas" (./06/)
+
 07| "Lihat Tugas" (./07/)
+
 08| "Lihat Tugas" (./08/)
+
 09| "Lihat Tugas" (./09/)
+
 10| "Lihat Tugas" (./10/)
+
 11| "Lihat Tugas" (./11/)
+
 12| "Lihat Tugas" (./12/)
+
 13| "Lihat Tugas" (./13/)
+
 14| "Lihat Tugas" (./14/)
 
 ---
